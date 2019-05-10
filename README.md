@@ -1,3 +1,3 @@
-# Grocery_List_Android_App
-Grocery List app for Android
+# Grocery List Android App
+View the demo below to see it in action
 ![Caption](/AppDemo.gif)
